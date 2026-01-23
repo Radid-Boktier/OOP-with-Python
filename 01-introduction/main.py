@@ -18,9 +18,9 @@ print(item1.calculate_total_price(item1.price,item1.quantity))
 item2 = Item()
 
 #assign attributes
-item2.name = 'Phone'
-item2.price = 100
-item2.quantity = 3
+item2.name = 'Laptop'
+item2.price = 1000
+item2.quantity = 1
 
 #calling methods from instances of a class
 print(item1.calculate_total_price(item1.price,item1.quantity))
