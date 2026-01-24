@@ -36,4 +36,3 @@ for instance in Item.all:
 
 print(Item.all)
 
-
